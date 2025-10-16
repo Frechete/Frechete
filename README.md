@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frechete
 - 👀 I’m interested in open source, C/C++, python, embedded linux, telecoms and software engineering
-- 🌱 I’m currently learning C++17/ C++20
+- 🌱 I’m currently learning C++17 / C++20 / C++23 / Rust
 - 💞️ I’m looking to collaborate on open source projects in linux environment
 - 📫 How to reach me https://es.linkedin.com/in/marcosavo
 
